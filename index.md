@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+我所使用过节点服务商
 
-You can use the [editor on GitHub](https://github.com/zhifo/index/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+栖息地 ★★★★
+https://qixidi.org/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+V2RAY 服务站
 
-### Markdown
+这是一个新站 小网页做的贼赏心悦目 目前非常非常的稳(11月17日)邀请制注册 所以大家注册的时候可以使用 邀请码：BIGDONGDONG 全大写
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+稳定程度我会实时更新
 
-```markdown
-Syntax highlighted code block
+MY2ZONE ★★★
+http://www.my2one.live/auth/register?affid=23457
 
-# Header 1
-## Header 2
-### Header 3
+SS SSR 服务站 亲测还不错 节点众多套餐灵活 分有限流量和无限流量 限制ip数量
 
-- Bulleted
-- List
+海豚湾 ★★
+https://cove.cloud/auth/register?affid=2743
 
-1. Numbered
-2. List
+SS SSR服务站 很早推荐过 最近使用感觉已经做了用户限速 感觉是人数较多 差不多饱和的缘故 大家最好注册免费试试
 
-**Bold** and _Italic_ and `Code` text
+V2proxy ★★
+https://console.vproxy.org/aff.php?aff=12
 
-[Link](url) and ![Image](src)
-```
+V2RAY 服务站 网页做的非常的不错
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+前段时间出现一点不稳定 貌似现在有所改善 具体大家还是能试用先试用
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhifo/index/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+以上场子均不是我运营的，我仅仅是自己使用过后做推荐，稳定度程度我会实时跟进 但因为每个人使用的宽带运营商不同而可能导致体验不同，所以大家最好要先试用，然后再进行购买，还有就是各种问题别找我啊，我不是他们客服人员，他们都有telegram群的
